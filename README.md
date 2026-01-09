@@ -5,5 +5,5 @@ This repository contains R script for screening zoonotic mycobacteria using ITS 
 
 This repository will walk you through the different Bioinformatic packages used throuhgout this project, transforming .ab1 files into FASTA files, and how to run a local blast. 
 
-## Installation 
+
 
